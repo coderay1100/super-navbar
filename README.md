@@ -1,5 +1,5 @@
 # super-navbar
-Dead-simple React navigation bar component inspired by [webpack](webpack.js.org) site's navbar. Current build only supports [Next](github.com/zeit/next.js) (support for vanilla React coming!)
+Dead-simple React navigation bar component inspired by [webpack](https://webpack.js.org) site's navbar. Current build only supports [Next](github.com/zeit/next.js) (support for vanilla React coming!)
 
 ![demo](http://g.recordit.co/aKHJZjmAzi.gif)
 
